@@ -1,16 +1,3 @@
-# my-project
+run npm install
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
+run npm serve(your backend api should be running at port 3000)
